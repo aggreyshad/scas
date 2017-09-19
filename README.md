@@ -13,4 +13,16 @@ STEPS OF INSTALLATION
 5. Visit your server url in browser (eg. http://localhost/scas/ for a server on your computer)
 
 
+LOGIN DEMO
+
+Email Address: youraddress@mail.com
+password: 543210
+
+
+Use the credentils above for a demo login.
+
+
+Thank You.
+
+
 
