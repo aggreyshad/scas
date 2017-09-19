@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 19, 2017 at 03:24 PM
+-- Generation Time: Sep 19, 2017 at 04:24 PM
 -- Server version: 5.6.17
 -- PHP Version: 5.5.12
 
@@ -902,7 +902,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 INSERT INTO `users` (`user_id`, `user_name`, `full_name`, `user_email`, `user_password`, `joining_date`, `user_tel`, `user_role`, `photofile`) VALUES
 (1, 'Moses', 'Mpiima Moses', 'mosesm@gmail.com', 'e9fd588b5872543d86c44e763356a495', '2016-03-14 21:25:48', '+256 778 856137', 0, ''),
 (2, 'Sarah', 'Sara Abeja', 'abeja@gmail.com', 'e9fd588b5872543d86c44e763356a495', '2016-03-14 21:28:39', '+256 712 345678', 0, ''),
-(3, 'Aggrey', 'Ibanda Aggrey', 'aggrey.ibanda@gmail.com', 'e9fd588b5872543d86c44e763356a495', '2016-03-16 06:13:33', '+256 778 856137', 0, ''),
+(3, 'Aggrey', 'Ibanda Aggrey', 'youraddress@mail.com', 'e9fd588b5872543d86c44e763356a495', '2016-03-16 06:13:33', '+256 778 856137', 0, ''),
 (4, 'Nakato', ' Nakato Goretti', 'nakatogoretti@gmail.com', 'e9fd588b5872543d86c44e763356a495', '2016-03-16 06:26:49', '', 0, ''),
 (5, 'Odongo', ' Odongo Ben', ' odongoben@gmail.com', 'e9fd588b5872543d86c44e763356a495', '2016-03-16 06:26:55', '', 0, ''),
 (6, 'Omodingi', ' Omodingi Emmanuel', 'omodingi@gmail.com', 'e9fd588b5872543d86c44e763356a495', '2016-03-16 06:27:28', '', 1, ''),
